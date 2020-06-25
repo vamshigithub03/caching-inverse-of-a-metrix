@@ -29,3 +29,4 @@ cacheSolve <- function(x, ...) {
   s
 }
 #thank you....
+#for you support team Coursera..
